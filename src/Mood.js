@@ -61,6 +61,7 @@ function Mood(props) {
       }}>
         <input 
         placeholder="Your mood today" />
+        <button type="submit">Save my mood for today</button>
       </form>
     </div>
   )
